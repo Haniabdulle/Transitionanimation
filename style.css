@@ -1,0 +1,7 @@
+ .main-1{
+    width: 10vw;
+    height: 10vh;
+    background-color: blue;
+    transition-property: width;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out; }
